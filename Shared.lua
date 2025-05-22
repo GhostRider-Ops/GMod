@@ -1,6 +1,6 @@
-GM.Name	= "____________"
-GM.Author	= "____________"
-GM.Email	= "____________"
+GM.Name	    = "____________"
+GM.Author	  = "____________"
+GM.Email	  = "____________"
 GM.Website  = "____________"
 
 DeriveGamemode( "____________" )
